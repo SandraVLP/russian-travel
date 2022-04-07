@@ -1,0 +1,9 @@
+.cover__image {
+    width: 1184px;
+    height: 740px;
+    z-index: 0;
+    position: absolute;
+    object-fit: contain;
+
+
+}
