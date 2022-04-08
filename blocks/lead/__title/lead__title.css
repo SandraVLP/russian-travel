@@ -10,3 +10,15 @@
     line-height: 104%;
     text-align: center;
 }
+
+@media screen and (max-width: 320px) {
+    .lead__title {
+        min-width: 288px;
+    font-size: 40px;
+    line-height: 44px;
+    margin-bottom: 16px;
+    
+        
+    }
+
+}

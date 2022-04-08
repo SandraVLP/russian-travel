@@ -1,4 +1,4 @@
-.place__paragraph {
+.place__paragraphs {
     margin-block-start: 0;
     margin-block-end: 0;
     font-family: 'Inter';
@@ -6,5 +6,32 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 163%;
-    margin-bottom: 26px;
+   
+}
+
+@media screen and (max-width: 1024px) {
+    .place__paragraphs {
+        
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    .place__paragraphs {
+        font-size: 16px;
+        width: 352px;
+        
+
+    }
+
+
+}
+
+@media screen and (max-width: 320px) {
+    .place__paragraphs {
+        margin-left: 16px;
+        margin-right: 16px;
+        
+    }
+
 }
