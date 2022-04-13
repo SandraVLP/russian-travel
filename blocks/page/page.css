@@ -1,13 +1,17 @@
 .page {
+font-family: 'Inter', sans-serif;
+-webkit-font-smoothing: antialiased; 
+-moz-osx-font-smoothing: grayscale; 
 
-/* мы ещё не умеем делать мобильную версию сайта, */
-/* поэтому выше установлена минимальная ширина страницы */
 min-width: 1280px;
 min-height: 6875px;
-/* выше установили ограничение по максимальной ширине */
+
 color:  #FFFFFF;
 background-color: #2A2C2F;
-margin: 0;
+margin: 0 auto;
+font-family: 'Inter';
+-webkit-font-smoothing: antialiased; 
+-moz-osx-font-smoothing: grayscale; 
 }
 
 @media screen and (max-width: 1024px) {

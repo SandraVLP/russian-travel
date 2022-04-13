@@ -1,5 +1,4 @@
 .footer__link {
-    font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -11,6 +10,11 @@
 }
 
 @media screen and (max-width: 320px) {
+
+    .footer__link:nth-child(5) {
+        margin-bottom: 48px;
+    }
+
     .footer__link {
 
         font-size: 24px;

@@ -6,7 +6,7 @@
 }
 
 @media screen and (max-width: 1024px) {
-    .page {
+    .place__image  {
         max-width: 440px;
         max-height: 440px;
     }
@@ -25,6 +25,7 @@
     .place__image {
         max-width: 320px;
         max-height: 320px;
+        
     }
 
 }
