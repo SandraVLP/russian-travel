@@ -13,4 +13,4 @@
 
 
 **Ссылка**
-https://students-yandex.github.io/russian-travel/index.html
+https://sandravlp.github.io/russian-travel/
