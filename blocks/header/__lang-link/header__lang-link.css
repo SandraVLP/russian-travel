@@ -1,8 +1,12 @@
+.header__lang-link:nth-child(1) {
+    margin-right: 18px;
+}
+
 .header__lang-link {
 
     text-align: right;
     color: #FFFFFF;
-    text-decoration-line: none;
+ 
 
 }
 
