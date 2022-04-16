@@ -1,4 +1,5 @@
-@media screen and (max-width: 320px) {
+
+@media screen and (max-width: 750px) {
     .footer__links {
 
         display: flex;

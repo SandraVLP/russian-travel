@@ -1,6 +1,5 @@
 .places {
-    max-width: 984px;
-    max-height: 3392px;
+    width: 76.88vw;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 92px;
@@ -10,8 +9,8 @@
 
 @media screen and (max-width: 1024px) {
     .places {
-        max-width: 928px;
-        max-height: 3292px;
+        width: 90.63vw;
+
         
        
     }
@@ -20,17 +19,19 @@
 
 @media screen and (max-width: 768px) {
     .places {
-        max-height: 2808px;
-        max-width: 720px;
+
+        width: 93.75vw;
         margin-bottom: 90px;
     }
 
 }
 
-@media screen and (max-width: 320px) {
+
+
+@media screen and (max-width: 400px) {
     .places {
-        max-width: 320px;
-        max-height: 5177px;
+        width: 100%;
+
         margin-left: 0;
         margin-right: 0;
         margin-bottom: 66px;

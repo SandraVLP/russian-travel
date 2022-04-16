@@ -9,6 +9,22 @@
 
 }
 
+@media screen and (max-width: 730px) {
+    .intro__title {
+        font-size: 45px;
+
+    }
+
+}
+
+
+@media screen and (max-width: 400px) {
+    .intro__title {
+        font-size: 35px;
+
+    }
+
+}
 
 
 @media screen and (max-width: 320px) {
