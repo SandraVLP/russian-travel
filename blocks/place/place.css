@@ -33,24 +33,11 @@
 
 @media screen and (max-width: 600px) {
     .place {
-        grid-column-gap: 10px;
-        grid-row-gap: 20px;
-        grid-template-columns: 288px auto;
-       
-    }
-
-}
-
-
-@media screen and (max-width: 400px) {
-    .place {
         margin-bottom: 41px;
         display: flex;
         flex-direction: column;
         grid-row-gap: 32px;
-
-
-        
+       
     }
 
 }
